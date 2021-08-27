@@ -1,2 +1,2 @@
 # scratchtest
-There really isn't anything interesting to see here.
+MDCCCLXVII's testing repository for Scratch extensions.
